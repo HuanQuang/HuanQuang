@@ -3,7 +3,7 @@
 <h3 align='center' ><img width='30' src='https://zalo-api.zadn.vn/api/emoticon/sticker/webpc?eid=21286&size=130&version=1'/><b> I'm a Front-end developer</b><img width='30' src='https://zalo-api.zadn.vn/api/emoticon/sticker/webpc?eid=1105&size=130&version=2'/></h3>
 <p align='center'>
   <em align='center'>
-    The mind is powerful! When there is enemy within, The enemy outside can do us no harm  </em>
+    The mind is powerful! When there is no enemy within, The enemy outside can do us no harm  </em>
     <br>
 
 <p align="center">Thought : "Life is full of choices…choose wisely!”</p>
