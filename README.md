@@ -1,4 +1,4 @@
-# <h2 align='center'>Hola everyone <img width='40px' src='https://zalo-api.zadn.vn/6/b/0/6/1/11938/icon_pre/mocachodien_thumb.png'/></h2>
+# <h2 align='center'>Helo everyone <img width='40px' src='https://zalo-api.zadn.vn/6/b/0/6/1/11938/icon_pre/mocachodien_thumb.png'/></h2>
 
 <h3 align='center' ><img width='30' src='https://zalo-api.zadn.vn/api/emoticon/sticker/webpc?eid=21286&size=130&version=1'/><b> I'm a Front-end developer</b><img width='30' src='https://zalo-api.zadn.vn/api/emoticon/sticker/webpc?eid=1105&size=130&version=2'/></h3>
 <p align='center'>
